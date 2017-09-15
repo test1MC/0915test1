@@ -12,4 +12,5 @@
   EnableFeedbackService="false"
   LiveHelpServer=""
   LiveHelpKey=""
-  GetLatestBeforeCompile="true"></CatapultTarget>
+  GetLatestBeforeCompile="true"
+  DisableAutoSync="false"></CatapultTarget>
